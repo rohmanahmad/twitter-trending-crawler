@@ -1,0 +1,20 @@
+{
+  "name": "twitter-trending",
+  "version": "1.0.0",
+  "description": "getting data from getdaytrens ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter-trending"
+  ],
+  "author": "rohmanahmad",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "follow-redirects": "^1.15.9",
+    "moment": "^2.30.1",
+    "mongoose": "^5.13.22"
+  }
+}
